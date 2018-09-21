@@ -12,9 +12,9 @@ class Calculator
 		c=a+b;
 			System.out.println(c);
 		}
-		public void add(float a,int b)
+		public void add(int a,int b)
 		{
-		 float c=a+b;
+		 int c=a+b;
 			System.out.println(c);
 		}
 		public void add(double a,double b)
